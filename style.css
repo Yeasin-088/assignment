@@ -4,8 +4,6 @@
     </style>
 }
 
-
-
 .banner {
     padding-top: 150px;
     padding-right: 180px;
@@ -14,8 +12,6 @@
     background-image: url(images/banner/banner1.png);
     background-repeat: no-repeat;
     background-size: 100%;
-
-
 }
 
 #p-1 {
@@ -38,19 +34,17 @@
     padding: 15px 20px;
     border-radius: 5px;
     margin-top: 15px;
-
 }
 
 .part-2 {
     background-image: url(images/person.png);
-    margin-left: 120px;
-    padding-top: 150px;
-    padding-right: 180px;
-    padding-bottom: 250px;
+    margin-left: 100px;
+    padding-top: 130px;
+    padding-right: 150px;
+    padding-bottom: 300px;
     background-repeat: no-repeat;
     text-align: left;
     padding-left: 650px;
-
 }
 
 .li {
@@ -58,23 +52,23 @@
 }
 
 #sub-title {
-    padding-bottom: 20px;
+    padding-top: 100px;
+    font-size: 35px;
 }
 
-#part-2 {
-    margin
+#para {
+    margin-top: 25px;
 }
 
 .plans-title {
-    margin-top: 130px;
+    margin-top: 0px;
     font-size: 40px;
     text-align: center;
-
 }
 
 .my-plans {
     margin-top: 55px;
-    font-weight: 700;
+    margin-bottom: 130px;
     font-size: 25px;
     display: flex;
     gap: 70px;
@@ -86,7 +80,49 @@
     font-size: 30px;
 }
 
-.part-3 {
+.buttom-part {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+}
+
+.experience-zone {
+    width: 50%;
+    padding: 20px;
+    margin-left: 3%;
+    margin-right: 3%;
+    box-shadow: 15px 15px 50px grey;
+    border-radius: 15px;
+}
+
+.ex {
+    margin-top: 80px;
+    margin-bottom: 50px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+#full-stack-developer {
+    border-left: 10px solid rgb(255, 83, 83);
+    margin-left: 130px;
+}
+
+#junior-web-developer {
+    border-left: 10px solid rgb(83, 100, 255);
+    margin-right: 130px;
+}
+
+.colorful-name {
+    color: rgb(233, 111, 41);
+    padding-bottom: 20px;
+}
+
+.part-4 {
     background-image: url(images/gradient2.png);
     margin-top: 130px;
     border-radius: 5px;
@@ -97,6 +133,7 @@
     padding-bottom: 60px;
     background-repeat: no-repeat;
     font-size: 30px;
+    margin-bottom: 100px;
 }
 
 .btn-2 {
@@ -108,4 +145,56 @@
     border: 0;
     font-size: 20px;
 
+}
+
+.footer {
+    background-image: url(images/plain-black.jpg);
+    color: #FFFFFF;
+    display: flex;
+    gap: 400px;
+    padding-top: 130px;
+    padding-left: 130px;
+    padding-bottom: 180px;
+}
+
+#last {
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+.img {
+    display: flex;
+    margin-top: 30px;
+    gap: 10px;
+}
+
+#mail {
+    margin-top: 25px;
+}
+
+#phone {
+    margin-top: 25px;
+}
+
+#sub {
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
+#text {
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+    border-color: #FFFFFF;
+}
+
+.btn-3 {
+    color: orangered;
+    background-color: white border;
+    padding: 15px 25px;
+    border-radius: 5px;
+    margin-top: 15px;
+    border: 0;
+    font-size: 20px;
 }
