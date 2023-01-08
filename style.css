@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    <style>@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Open+Sans&family=Poppins:ital@0;1&family=Roboto&family=Rubik+Moonrocks&family=Work+Sans&display=swap');
+    </style>
+}
+
+
+
+.banner {
+    padding-top: 150px;
+    padding-right: 180px;
+    padding-bottom: 190px;
+    text-align: right;
+    background-image: url(images/banner/banner1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+
+}
+
+#p-1 {
+    margin-top: 10px;
+}
+
+#p-3 {
+    margin-bottom: 10px;
+}
+
+#title {
+    font-weight: 700;
+    font-size: 65px;
+}
+
+#btn-first {
+    color: #FFFFFF;
+    background-color: orangered;
+    border: 0;
+    padding: 15px 20px;
+    border-radius: 5px;
+    margin-top: 15px;
+
+}
+
+.part-2 {
+    background-image: url(images/person.png);
+    margin-left: 120px;
+    padding-top: 150px;
+    padding-right: 180px;
+    padding-bottom: 250px;
+    background-repeat: no-repeat;
+    text-align: left;
+    padding-left: 650px;
+
+}
+
+.li {
+    list-style: none;
+}
+
+#sub-title {
+    padding-bottom: 20px;
+}
+
+#part-2 {
+    margin
+}
+
+.plans-title {
+    margin-top: 130px;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+.my-plans {
+    margin-top: 55px;
+    font-weight: 700;
+    font-size: 25px;
+    display: flex;
+    gap: 70px;
+    margin-left: 150px;
+}
+
+.plan-description {
+    font-weight: 200;
+    font-size: 30px;
+}
+
+.part-3 {
+    background-image: url(images/gradient2.png);
+    margin-top: 130px;
+    border-radius: 5px;
+    margin-left: 130px;
+    margin-right: 130px;
+    padding-top: 60px;
+    padding-left: 65px;
+    padding-bottom: 60px;
+    background-repeat: no-repeat;
+    font-size: 30px;
+}
+
+.btn-2 {
+    color: orangered;
+    background-color: white border;
+    padding: 20px 30px;
+    border-radius: 5px;
+    margin-top: 15px;
+    border: 0;
+    font-size: 20px;
+
+}
